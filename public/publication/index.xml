@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yang Lin&#39;s Homepage</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>3D quantum ghost imaging microscope</title>
+      <link>http://localhost:1313/publication/davenport-20253-d/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/davenport-20253-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moving quantum ghost imaging from demonstration to application</title>
+      <link>http://localhost:1313/publication/ryan-2025-moving/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ryan-2025-moving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupling a recurrent neural network to SPAD TCSPC systems for real-time fluorescence lifetime imaging</title>
+      <link>http://localhost:1313/publication/lin-2024-coupling/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin-2024-coupling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum ghost imaging microscopy depth-of-field study</title>
+      <link>http://localhost:1313/publication/davenport-2024-quantum/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/davenport-2024-quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking Neural Networks for Active Time-Resolved SPAD Imaging</title>
+      <link>http://localhost:1313/publication/lin-2024-spiking/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin-2024-spiking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lncLocator 2.0: a cell-line-specific subcellular localization predictor for long non-coding RNAs with interpretable deep learning</title>
+      <link>http://localhost:1313/publication/lin-2021-lnclocator/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lin-2021-lnclocator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

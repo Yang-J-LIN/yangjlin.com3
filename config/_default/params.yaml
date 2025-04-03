@@ -35,7 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Yang Lin"
+      text: "Yang's Homepage"
+      # filename: "logo.jpg"
 
 # Site footer
 footer:

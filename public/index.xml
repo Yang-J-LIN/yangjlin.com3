@@ -328,7 +328,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
 
 
-&lt;div id=&#34;chart-764289315&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-825137946&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -346,7 +346,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-764289315&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-825137946&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

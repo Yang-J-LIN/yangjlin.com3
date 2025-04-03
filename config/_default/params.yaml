@@ -47,6 +47,8 @@ footer:
       share_alike: true
       allow_commercial: false
 
+
+
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
@@ -58,3 +60,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  map:
+    provider: mapnik
+    api_key: ''
+    zoom: 15
+

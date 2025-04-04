@@ -37,9 +37,9 @@ sections:
       text: |-
         I'm a doctoral assistant in the AQUA lab at EPFL. I am working on integrating neural networks near and within the SPAD sensors, especially recurrent neural networks and spiking neural networks.
 
-        I design the ASIC SPAD image sensors, FPGA-based neural processing units, software for control and visualization, and optical setup for fluorescence lifetime imaging.
+        I design the ASIC SPAD image sensors, FPGA-based neural processing units, software for control and visualization, and optical setup for biomedical imaging applications, esp. fluorescence lifetime imaging.
         
-        Please reach out to collaborate 😃
+        **I am currently open to work opportunities as a researcher or engineer, with a starting date around the end of 2025.** 😃
     design:
       columns: '1'
   # - block: collection

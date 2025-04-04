@@ -48,11 +48,13 @@ profiles:
 
 interests:
   - Machine Learning
-  - Fluorescence Lifetime Imaging
-  - Biomedical Imaging Processing
+  - Intelligent Image Sensors
+  - Computer Vision
+  - Biomedical Imaging (e.g. FLIM)
+  - Microscopy/Macroscopy
 
 education:
-  - area: Ph.D. in Computational and Quantitative Biology
+  - area: Ph.D. in Computational and Quantitative Biology (expected 2025)
     institution: École Polytechnique Fédérale de Lausanne
     date_start: 2020-10-01
     date_end: 2025-10-01
@@ -64,7 +66,7 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: B.Eng. in Automation
+  - area: B.Eng. in Automation (2020)
     institution: Shanghai Jiao Tong University
     date_start: 2016-09-01
     date_end: 2020-06-30

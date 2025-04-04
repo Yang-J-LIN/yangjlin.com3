@@ -52,6 +52,7 @@ interests:
   - Computer Vision
   - Biomedical Imaging (e.g. FLIM)
   - Microscopy/Macroscopy
+  - Single-photon avalanche diode
 
 education:
   - area: Ph.D. in Computational and Quantitative Biology (expected 2025)

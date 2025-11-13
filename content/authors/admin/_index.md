@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Doctoral Assistant
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,12 +55,12 @@ interests:
   - Single-photon avalanche diode
 
 education:
-  - area: Ph.D. in Computational and Quantitative Biology (expected 2025)
+  - area: Ph.D. in Computational and Quantitative Biology (2025)
     institution: École Polytechnique Fédérale de Lausanne
     date_start: 2020-10-01
     date_end: 2025-10-01
     summary: |
-      Thesis: *SPAD Image Sensors with Embedded Intelligence*
+      Thesis: [*SPAD Image Sensors with Embedded Intelligence*](https://infoscience.epfl.ch/handle/20.500.14299/255719)
 
       This research focuses on integrating recurrent and spiking neural networks within or near SPAD sensors to enable efficient, real-time, intelligent edge processing, especially for biomedical imaging. The work encompasses sensor IC design, processor architecture, FPGA implementation, software development, neural network training and evaluation, mathematical modeling, fluorescence lifetime imaging, and optical system setup. Supervisor: [Prof. Edoardo Charbon](https://people.epfl.ch/edoardo.charbon) and [Dr. Bruschini Claudio](https://people.epfl.ch/claudio.bruschini/).
 
@@ -158,4 +158,4 @@ awards:
 
 ## About Me
 
-I am currently a doctoral assistant at [AQUA Lab](https://www.epfl.ch/labs/aqua/), EPFL. I am working on marrying single-photon avalanche diodes (SPADs) with artificial and spiking neural networks for biological and medical imaging.
+I am currently a postdoctoral researcher at [AQUA Lab](https://www.epfl.ch/labs/aqua/), EPFL. I am working on marrying single-photon avalanche diodes (SPADs) with artificial and spiking neural networks for biological and medical imaging.

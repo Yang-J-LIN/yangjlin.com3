@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a doctoral assistant in the AQUA lab at EPFL. I am working on integrating neural networks near and within the SPAD sensors, especially recurrent neural networks and spiking neural networks.
+        I'm a postdoctoral researcher in the AQUA lab at EPFL. I am working on integrating neural networks near and within the SPAD sensors, especially recurrent neural networks and spiking neural networks.
 
         I design the ASIC SPAD image sensors, FPGA-based neural processing units, software for control and visualization, and optical setup for biomedical imaging applications, esp. fluorescence lifetime imaging.
         
-        **I am currently open to work opportunities as a researcher or engineer, with a starting date around the end of 2025.** 😃
+        **I am currently open to work opportunities as a researcher or engineer in Switzerland, with a starting date around Oct, 2026.** 😃
     design:
       columns: '1'
   # - block: collection
